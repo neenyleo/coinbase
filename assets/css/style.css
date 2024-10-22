@@ -415,9 +415,7 @@
     text-align: center;
   }
 }
-body{
-      background-color: #003b2f;
-}
+
 
 .navbar-brand{
   font-size: 26px;
@@ -542,13 +540,13 @@ input:focus{
 }
 
 .btn-primary{
-  background-color: #003b2f;
-  border: 1px solid #003b2f;
+  background-color: #13c2c2;
+  border: 1px solid #13c2c2;
 }
 
 .btn-primary:hover{
-  background-color: #37685e;
-  border: 1px solid #37685e;
+  background-color: #13c2c273;
+  border: 1px solid #13c2c273;
 }
 
 #welcome-section form{
