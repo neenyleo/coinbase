@@ -535,8 +535,10 @@ input:focus{
  #welcome-section{
   width: 25% !important;
   background-color: #003b2f;
-  height: 58vh !important;
+  height: auto !important;
   border-radius: 10px;
+  padding: 20px ;
+  margin-top: 120px;
 }
 
 .btn-primary{
@@ -558,3 +560,35 @@ input:focus{
   background-color: #003b2f;
   border: 1px solid #003b2f;
 }
+
+body{
+  background-color: #1652f0 !important;
+
+
+}
+
+nav .row{
+  background-color: #1652f0 !important;
+  width: 100%;
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+   
+}
+
+.row{
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+
+.nav-item .nav-link{
+  color: white !important;
+}
+
+a.nav-link.dropdown-toggle{
+  color: white !important;
+}
+
+div.img{
+  margin-right: 650px;
+}
+
