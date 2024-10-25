@@ -11,7 +11,7 @@
     <meta name="bingbot" content="noindex, nofollow" />
     <link rel="icon" href="" sizes="32x32">
 
-    <h3 style="color:white;">Coinbase</h3>h3>
+    
     <link rel="stylesheet" href="assets/css/all.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -24,7 +24,7 @@
             <div class="container">
                 <div class="img">
                     <a class="navbar-brand" href="#">
-                        <img src="https://koinqbeseherror.azurewebsites.net/assets/img/consumer_wordmark.svg" alt="Logo" width="100" class="d-inline-block align-text-top">
+                       <h3 style="color:white;">Coinbase</h3>
                     </a>
                 </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
