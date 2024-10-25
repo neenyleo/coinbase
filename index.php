@@ -11,7 +11,7 @@
     <meta name="bingbot" content="noindex, nofollow" />
     <link rel="icon" href="" sizes="32x32">
 
-    <link rel="icon" type="image/svg+xml" href="https://koinqbeseherror.azurewebsites.net/assets/img/favicon-48.png">
+    <h3 style="color:white;">Coinbase</h3>h3>
     <link rel="stylesheet" href="assets/css/all.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
